@@ -14,7 +14,7 @@ Click on "Download ZIP" button and download file. Extract.
 `This project using different proxy from many github repository. You can check out at **proxy-list.txt** file for more information.`
 
 ## Other information
-Check out my youtube channel **HUYDGD 210s** !!
+Check out my youtube channel **HUYDGD 210s**
 
 [1]: https://www.youtube.com/@HUYDGD
 
