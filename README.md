@@ -1,9 +1,23 @@
 # AutoGetProxy `☢`
+Sad because you can't get a proxy file for **private purpose** 💀? <br> Don't worry, **AutoGetProxy** will help you do that, with over millions of proxies over the world!
+
+<br>
+
 ![Image](https://i.imgur.com/d4HS22F.png)
 ## Installation
 Click on "Download ZIP" button and download file. Extract.
 
 ## Usage
+#### How to use `Auto Get Proxy`
+- Step 1: Run get.cmd
+> This script will download all the proxy files on different github sources.
+- Step 2: Move all the proxy files into `proxies` folder
+> Note: This is not a feature, it's very inconvenient. I will update the code in the next version.
+- Step 3: Run merge.cmd
+> This script will merge all the proxy files you put in into **ONE FILE**.
+
+<br>
+
 | File | Description |
 | --- | --- |
 | start.cmd | Auto get all proxy list from different sources.  |
